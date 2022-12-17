@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MAD Meditation</string>
+
+    <!-- Menu -->
+    <string name="main_item">Главная</string>
+    <string name="sound_item">Прослушивание</string>
+    <string name="profile_item">Профиль</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_hi">ПРИВЕТ</string>
+    <string name="onboarding_text">Наслаждайся отборочными.\nБудь внимателен.\nДелай хорошо.</string>
+    <string name="onboarding_auth">Войти в аккаунт</string>
+    <string name="onboarding_reg">Ещё нет аккаунта? <b>Зарегестрируйтесь</b></string>
+
+    <!-- Sign In -->
+    <string name="signin_title">Авторизация</string>
+    <string name="signin_email_hint">E-mail</string>
+    <string name="signin_password_hint">Пароль</string>
+    <string name="signin_auth">Войти</string>
+    <string name="signin_reg">Регистрация</string>
+
+    <!-- MainFragment -->
+    <string name="hi_text">С возвращением, </string>
+    <string name="question_text">Каким ты себя ощущаешь сегодня?</string>
+    <!-- Mood -->
+    <string name="mood_text">Настроение</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quotes_title">Заголовок блока</string>
+    <string name="description_quotes">Кратенькое описание блока с двумя строчками</string>
+    <string name="exit_profile">Exit</string>
+    <string name="name_profile">Name</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mainFragment"
+        android:title="@string/main_item"
+        android:icon="@drawable/logo_mad"/>
+    <item
+        android:id="@+id/soundFragment"
+        android:title="@string/sound_item"
+        android:icon="@drawable/sound_ico"/>
+    <item
+        android:id="@+id/profileFragment"
+        android:title="@string/profile_item"
+        android:icon="@drawable/profile_ico"/>
+</menu>
